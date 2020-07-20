@@ -10,7 +10,7 @@
   
   // "404.page-not-found": "page not found",
   // TODO New key - Add a translation
-  "404.page-not-found": "page not found",
+  "404.page-not-found": "لم يتم العثور علي الصفحة",
   
   
   
@@ -64,7 +64,7 @@
   
   // "admin.registries.bitstream-formats.edit.description.label": "Description",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.description.label": "Description",
+  "admin.registries.bitstream-formats.edit.description.label": "الوصف",
   
   // "admin.registries.bitstream-formats.edit.extensions.hint": "Extensions are file extensions that are used to automatically identify the format of uploaded files. You can enter several extensions for each format.",
   // TODO New key - Add a translation
@@ -72,7 +72,7 @@
   
   // "admin.registries.bitstream-formats.edit.extensions.label": "File extensions",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.extensions.label": "File extensions",
+  "admin.registries.bitstream-formats.edit.extensions.label": "أختصارات الملف",
   
   // "admin.registries.bitstream-formats.edit.extensions.placeholder": "Enter a file extension without the dot",
   // TODO New key - Add a translation
